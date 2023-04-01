@@ -14,8 +14,8 @@ Hi there 👋 I'm Kenneth Shuto! I'm working towards a CS degree at [Cal Poly Po
 🎮 I'm currently studying game development and design. Worked on a VR game as part of my [university's research](https://www.cppvr.org/) and 
 am currently working on a 2D action-platformer bullet-hell game.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=BugCollectorVR)](https://github.com/shutowl/BugCollectorVR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=Ina-Fangame)](https://github.com/shutowl/Ina-Fangame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=BugCollectorVR&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/BugCollectorVR)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=Ina-Fangame&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/Ina-Fangame)
 
 🎨 I'm also currently working as an VFX artist/programmer for a 2D pixel top-down action game at my university.
 
@@ -58,7 +58,7 @@ am currently working on a 2D action-platformer bullet-hell game.
 
 <br>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shutowl&count_private=true&include_all_commits=true&show_icons=true&title_color=ccccff&text_color=e7e7e7&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shutowl&count_private=true&include_all_commits=true&show_icons=true&title_color=ccccff&text_color=e7e7e7&hide_rank=true&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shutowl&layout=compact&hide_border=true&title_color=ccccff&theme=dark&bg_color=00000000&langs_count=6">
 </p>
 
