@@ -9,15 +9,13 @@
 [![KShut](https://img.shields.io/badge/-KShut-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/KShut#0339)
 
 <!-- Bio -->
-Hi there 👋 I'm Kenneth Shuto! I'm working towards a CS degree at [Cal Poly Pomona](https://www.cpp.edu/).
+Hi there 👋 I'm Kenneth Shuto! I'm a recent CS graduate at [Cal Poly Pomona](https://www.cpp.edu/).
 
-🎮 I'm currently studying game development and design. Worked on a VR game as part of my [university's research](https://www.cppvr.org/) and 
-am currently working on a 2D bullet-hell game.
+🎮 I'm studying game development and design. Worked on a VR game as part of my [university's research](https://www.cppvr.org/) and as
+an Technical Artist for a 2D pixel top-down action game at my university. Right now I'm currently working on a 2D bullet-hell game.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=BugCollectorVR&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/BugCollectorVR)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=Ina-Fangame&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/Ina-Fangame)
-
-🎨 I'm also currently working as an VFX artist/programmer for a 2D pixel top-down action game at my university.
 
 <!-- Skills -->
 <p align="center">
