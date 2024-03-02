@@ -5,17 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-shuto/)
 [![shutowl](https://img.shields.io/badge/-Art_Twitter-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/shutowl)
 [![kennethshuto@gmail.com](https://img.shields.io/badge/-Main_Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kennethshuto@gmail.com)
-[![qshuto@cpp.edu](https://img.shields.io/badge/-School_Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:qshuto@cpp.edu)
 [![KShut](https://img.shields.io/badge/-KShut-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/KShut#0339)
 
 <!-- Bio -->
-Hi there 👋 I'm Kenneth Shuto! I'm a recent CS graduate at [Cal Poly Pomona](https://www.cpp.edu/).
 
-🎮 I'm studying game development and design. Worked on a VR game as part of my [university's research](https://www.cppvr.org/) and as
-an Technical Artist for a 2D pixel top-down action game at my university. Right now I'm currently working on a 2D bullet-hell game.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=BugCollectorVR&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/BugCollectorVR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=Ina-Fangame&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/Ina-Fangame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=HoloSort&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/HoloSort)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shutowl&repo=Koseki-Kombat&bg_color=00000000&text_color=e7e7e7&title_color=ccccff)](https://github.com/shutowl/Koseki-Kombat)
 
 <!-- Skills -->
 <p align="center">
@@ -34,6 +29,7 @@ an Technical Artist for a 2D pixel top-down action game at my university. Right 
   <br>
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jira-green?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Aseprite-white?style=flat-square&logo=Aseprite&logoColor=black"/>
@@ -48,7 +44,6 @@ an Technical Artist for a 2D pixel top-down action game at my university. Right 
   <b>Hobbies!</b>
   <br>
   <img src="https://img.shields.io/badge/-Gaming-ff5757?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Music Production-fabe69?style=flat-square"/>
   <img src="https://img.shields.io/badge/-Game Dev-87f279?style=flat-square"/>
   <img src="https://img.shields.io/badge/-Anime-5e7cff?style=flat-square"/>
   <img src="https://img.shields.io/badge/-Digital_Art-9570fa?style=flat-square"/>
@@ -60,4 +55,4 @@ an Technical Artist for a 2D pixel top-down action game at my university. Right 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shutowl&layout=compact&hide_border=true&title_color=ccccff&theme=dark&bg_color=00000000&langs_count=6">
 </p>
 
-<sub>Last updated 3/31/23</sub>
+<sub>Last updated 3/2/24</sub>
